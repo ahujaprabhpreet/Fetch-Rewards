@@ -44,11 +44,11 @@ This project is built using Spring boot with Maven.
 
 <b>Install the dependencies:</b>
 <p>mvn clean install</p>
-Note: Maven should be installed
+Note: Maven should be installed<br/>
 
 <b>Start the App:</b>
 <p>mvn spring-boot:run</p>
-Note: port 8080 must be available
+Note: port 8080 must be available<br/>
 
 Postman can be used to test this API.
 
