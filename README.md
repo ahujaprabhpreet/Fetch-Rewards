@@ -43,15 +43,11 @@ This project is built using Spring boot with Maven.
 <p>git clone https://github.com/ahujaprabhpreet/Fetch-Rewards.git</p>
 
 <b>Install the dependencies:</b>
-
 mvn clean install
-
-Maven should be installed
+Note: Maven should be installed
 
 <b>Start the App:</b>
-
 mvn spring-boot:run
-
 Note: port 8080 must be available
 
 Postman can be used to test this API.
